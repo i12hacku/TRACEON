@@ -2,6 +2,8 @@
 
 See your public IP address, where it geolocates, who routes it, and whether your browser leaks it. TRACEON runs entirely in your browser: there is no backend, and nothing you look up is stored on a server.
 
+**Live site: [traceonip.web.app](https://traceonip.web.app)**
+
 ![TRACEON showing a lookup of 1.1.1.1](docs/screenshots/overview.png)
 
 ## Features
